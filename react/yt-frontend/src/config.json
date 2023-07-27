@@ -1,0 +1,8 @@
+{
+    "API_URL" : "https://audio-download-server.onrender.com",
+    "downloadedAudioFileName" : "MP3AudioFile",
+    "serverPort" : 0,
+    "downloadRoute" : "download",
+    "titleMsg" : "Welcome to the video audio downloader tool page. Type in a video link into the input field and click the yellow download button. In the tool running download process, audio .mp3 file is created and added into a .zip archive file, which will be downloaded to your device.",
+    "supportMsg" : "Currently: the tool supports youtube video urls and .mp3 audio file format<br/>Not supported: other audio formats, youtube playlists and other social network platform urls "
+}
